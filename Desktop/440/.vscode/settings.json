@@ -1,0 +1,21 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\labs-lab1-jar-1.0.0.jar",
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\jmat-1.0.1.jar",
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\jnn-1.0.0.jar",
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\labs-rl-cp-jar-1.0.2.jar",
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\labs-rl-acrobat-jar-1.0.2.jar",
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\labs-search-global-routing-jar-1.0.0.jar",
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\labs-adversarial-rttt-jar-1.0.0.jar",
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\pas-risk-jar-1.0.0.jar",
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\pas-pacman-jar-1.0.0.jar",
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\pas-uno-jar-1.0.1.jar",
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\labs-sl-doppelganger-doppeltree-jar-1.0.1.jar",
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\argparse4j-0.9.0.jar",
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\hamcrest-core-1.3.jar",
+        "c:\\Users\\Gerardo Vega\\Desktop\\440\\lib\\junit-4.11.jar"
+    ]
+}
